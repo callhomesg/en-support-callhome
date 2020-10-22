@@ -32,7 +32,7 @@ sections:
         actions:
           - type: action
             label: Read more
-            url: /
+            url: /translations
             style: link
       - type: grid_item
         title: Contact
