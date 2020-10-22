@@ -27,15 +27,8 @@
         "violet": {
             "type": "palette",
             "sass": {
-                "accent1": "#8e2de2",
-                "accent2": "#4a00e0"
-            }
-        },
-        "callhome": {
-            "type": "palette",
-            "sass": {
-                "accent1": "#349cbc",
-                "accent2": "#e3f7fb"
+                "accent1": "#349CBC",
+                "accent2": "#297B94"
             }
         }
     },
