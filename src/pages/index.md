@@ -95,7 +95,7 @@ sections:
     subtitle: Contact us directly  if you can't find any answers here
     actions:
       - type: action
-        label: Get Started
+        label: Contact now
         url: /docs/getting-started/installation
         style: primary
   - type: section_content
