@@ -1,5 +1,5 @@
 ---
-title: 'No '
+title: No connection
 weight: 2
 template: docs
 ---
