@@ -25,7 +25,7 @@ sections:
             style: link
         title_url: /docs
       - type: grid_item
-        title: Blog
+        title: Translations
         content: >-
           Our support site is available in English and Benglai. More languages
           to be added soon.
