@@ -40,7 +40,7 @@ sections:
         actions:
           - type: action
             label: Contact now
-            url: /style-guide
+            url: /contact
             style: link
         title_url: /contact
   - type: section_cta
