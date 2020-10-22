@@ -43,6 +43,15 @@ sections:
             url: /style-guide
             style: link
         title_url: /contact
+  - type: section_cta
+    title: Still confused?
+    section_id: cta
+    subtitle: Contact us directly  if you can't find any answers here
+    actions:
+      - type: action
+        label: Contact now
+        url: /docs/getting-started/installation
+        style: primary
   - type: section_content
     title: A Section With An Image
     section_id: text-img
@@ -89,15 +98,6 @@ sections:
             label: Learn More
             url: /showcase
             style: link
-  - type: section_cta
-    title: Still confused?
-    section_id: cta
-    subtitle: Contact us directly  if you can't find any answers here
-    actions:
-      - type: action
-        label: Contact now
-        url: /docs/getting-started/installation
-        style: primary
   - type: section_content
     title: A Section Without Image
     section_id: text-no-img
