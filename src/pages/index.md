@@ -39,7 +39,7 @@ sections:
         content: Contact us if you can't find answers to your questions.
         actions:
           - type: action
-            label: Learn More
+            label: Contact now
             url: /style-guide
             style: link
         title_url: /contact
