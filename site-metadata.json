@@ -94,7 +94,8 @@
                 "style": "primary",
                 "has_subnav": false
             }
-        ]
+        ],
+        "url": "/"
     },
     "footer": {
         "type": "footer",
