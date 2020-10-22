@@ -1,7 +1,7 @@
 ---
 title: Translations
 subtitle: Our support site is currently available in English and Bengali.
-excerpt: lorem-ipsum
+excerpt: translations
 template: page
 ---
 ## Lorem ipsum
