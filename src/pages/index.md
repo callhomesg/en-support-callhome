@@ -39,7 +39,7 @@ sections:
         actions:
           - type: action
             label: Contact now
-            url: /contact
+            url: 'https://callhome.sg/contact'
             style: link
         title_url: /contact
   - type: section_cta
