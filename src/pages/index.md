@@ -17,10 +17,7 @@ sections:
     grid_items:
       - type: grid_item
         title: Documentation
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+        content: All the answers to your questions when using Call Home app here.
         actions:
           - type: action
             label: Get Started
