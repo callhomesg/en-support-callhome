@@ -47,7 +47,7 @@
             },
             {
                 "type": "action_menu",
-                "label": "Docs",
+                "label": "Support",
                 "url": "/docs",
                 "style": "link",
                 "has_subnav": false
