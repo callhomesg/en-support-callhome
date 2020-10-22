@@ -27,7 +27,7 @@ sections:
       - type: grid_item
         title: Translations
         content: >-
-          Our support site is available in English and Benglai. More languages
+          Our support site is available in English and Bengali. More languages
           to be added soon.
         actions:
           - type: action
