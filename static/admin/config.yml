@@ -295,7 +295,7 @@ collections:
               widget: string
   - name: docs
     label: Documentation Pagess
-    folder: src/pages/docs/{slug}
+    folder: src/pages/docs
     create: true
     extension: md
     identifier_field: title
