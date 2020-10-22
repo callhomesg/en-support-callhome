@@ -35,7 +35,7 @@
     "header": {
         "type": "header",
         "title": "Libris",
-        "logo_img": "images/logo.svg",
+        "logo_img": "/images/header-logo.png",
         "has_nav": true,
         "nav_links": [
             {
