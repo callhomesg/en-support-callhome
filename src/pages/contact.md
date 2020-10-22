@@ -1,6 +1,6 @@
 ---
 title: Contact
-excerpt: lorem-ipsum
+excerpt: contact
 sections: []
 template: advanced
 ---
