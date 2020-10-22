@@ -1,4 +1,4 @@
-root_docs_path: pages/docs
+root_docs_path: /docs
 sections:
   - about
   - getting-started
