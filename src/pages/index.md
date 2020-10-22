@@ -10,6 +10,7 @@ sections:
         label: Get started
         url: /docs
         style: primary
+    image: /images/5.jpg
   - type: section_grid
     section_id: features
     col_number: three
@@ -39,7 +40,7 @@ sections:
         actions:
           - type: action
             label: Contact now
-            url: /contact
+            url: 'https://callhome.sg/contact'
             style: link
         title_url: /contact
   - type: section_cta
