@@ -54,13 +54,6 @@
             },
             {
                 "type": "action_menu",
-                "label": "Blog",
-                "url": "/blog",
-                "style": "link",
-                "has_subnav": false
-            },
-            {
-                "type": "action_menu",
                 "label": "Sample Pages",
                 "url": "#",
                 "style": "link",
