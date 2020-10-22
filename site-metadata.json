@@ -101,14 +101,6 @@
             },
             {
                 "type": "action",
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
-                "style": "icon",
-                "icon_class": "fa-linkedin",
-                "new_window": true
-            },
-            {
-                "type": "action",
                 "label": "GitHub",
                 "url": "https://github.com/",
                 "style": "icon",
