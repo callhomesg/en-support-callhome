@@ -55,7 +55,7 @@
             {
                 "type": "action_menu",
                 "label": "Translations",
-                "url": "",
+                "url": "#",
                 "style": "link",
                 "has_subnav": true,
                 "subnav_links": [
