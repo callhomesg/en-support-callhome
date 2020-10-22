@@ -50,7 +50,7 @@ sections:
     actions:
       - type: action
         label: Contact now
-        url: /docs/getting-started/installation
+        url: /contact
         style: primary
   - type: section_content
     title: A Section With An Image
