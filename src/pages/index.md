@@ -4,7 +4,6 @@ sections:
   - type: section_hero
     title: Support for Call Home
     section_id: hero
-    image: /images/hero_background.svg
     content: Get support and answers for your questions when using Call Home.
     actions:
       - type: action
@@ -32,7 +31,7 @@ sections:
         actions:
           - type: action
             label: Read more
-            url: /
+            url: /translations
             style: link
       - type: grid_item
         title: Contact
