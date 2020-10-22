@@ -1,6 +1,6 @@
 ---
 title: Translations
-subtitle: lorem-ipsum
+subtitle: CLic
 excerpt: lorem-ipsum
 template: page
 ---
