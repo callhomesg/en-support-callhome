@@ -34,6 +34,12 @@ sections:
             label: Read more
             url: /translations
             style: link
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            icon_class: lorem-ipsum
+            new_window: false
+            type: action
       - type: grid_item
         title: Contact
         content: Contact us if you can't find answers to your questions.
