@@ -26,6 +26,7 @@ sections:
             label: Get Started
             url: /docs
             style: link
+        title_url: /docs
       - type: grid_item
         title: Blog
         content: >-
