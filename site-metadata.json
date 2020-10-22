@@ -93,7 +93,7 @@
         "social_links": [
             {
                 "type": "action",
-                "label": "Twitter",
+                "label": "Facebook",
                 "url": "https://twitter.com/",
                 "style": "icon",
                 "icon_class": "fa-facebook",
