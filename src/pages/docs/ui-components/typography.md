@@ -1,5 +1,5 @@
 ---
-title: ''
+title: Adding contacts
 weight: 1
 template: docs
 ---
