@@ -8,7 +8,7 @@ sections:
     content: Get support and answers for your questions when using Call Home.
     actions:
       - type: action
-        label: Startrted
+        label: Get started
         url: /docs
         style: primary
   - type: section_grid
