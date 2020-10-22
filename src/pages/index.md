@@ -20,7 +20,7 @@ sections:
         content: All the answers to your questions when using Call Home app here.
         actions:
           - type: action
-            label: Get Started
+            label: Read more
             url: /docs
             style: link
         title_url: /docs
