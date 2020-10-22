@@ -5,9 +5,7 @@ sections:
     title: Support for Call Home
     section_id: hero
     image: images/5.jpg
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: Get support and answers for your questions when using Call Home.
     actions:
       - type: action
         label: Get Started
