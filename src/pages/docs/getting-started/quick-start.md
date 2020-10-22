@@ -1,5 +1,5 @@
 ---
-title: Quick Start
+title: Quick start
 weight: 2
 template: docs
 ---
