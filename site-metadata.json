@@ -62,7 +62,7 @@
                     {
                         "type": "action",
                         "label": "English 🇺🇸",
-                        "url": "/overview",
+                        "url": "/",
                         "style": "link"
                     },
                     {
