@@ -76,7 +76,7 @@
             {
                 "type": "action_menu",
                 "label": "Back to Call Home",
-                "url": "https://github.com/",
+                "url": "https://callhome.sg",
                 "style": "primary",
                 "has_subnav": false
             }
