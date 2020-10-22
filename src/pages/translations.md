@@ -5,6 +5,6 @@ excerpt: translations
 template: page
 ---
 ## Translations
-Select your language below:
+Please select your language below:
 - [English](https://en-support.callhome.sg) 🇺🇸
 - [Bengali](https://bn-support.callhome.sg) 🇧🇩
