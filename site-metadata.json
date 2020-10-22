@@ -69,7 +69,8 @@
                         "type": "action",
                         "label": "Bengali 🇧🇩",
                         "url": "https://bn-support.callhome.sg",
-                        "style": "link"
+                        "style": "link",
+                        "new_window": true
                     }
                 ]
             },
