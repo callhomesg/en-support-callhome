@@ -75,7 +75,7 @@
             },
             {
                 "type": "action_menu",
-                "label": "GitHub",
+                "label": "Back to Call Home",
                 "url": "https://github.com/",
                 "style": "primary",
                 "has_subnav": false
