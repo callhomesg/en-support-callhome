@@ -27,8 +27,8 @@ sections:
       - type: grid_item
         title: Blog
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          Our support site is available in English and Benglai. More languages
+          to be added soon.
         actions:
           - type: action
             label: Read more
