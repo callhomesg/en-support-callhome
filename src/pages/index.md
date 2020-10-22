@@ -92,7 +92,7 @@ sections:
   - type: section_cta
     title: Still confused?
     section_id: cta
-    subtitle: This is an optional description for the call to action block.
+    subtitle: Contact us directly
     actions:
       - type: action
         label: Get Started
