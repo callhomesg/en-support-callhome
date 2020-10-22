@@ -10,7 +10,7 @@ sections:
         label: Get started
         url: /docs
         style: primary
-    image: /images/5.jpg
+    image: /images/support-bkgrd.png
   - type: section_grid
     section_id: features
     col_number: three
