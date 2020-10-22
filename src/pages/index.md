@@ -45,6 +45,7 @@ sections:
             label: Learn More
             url: /style-guide
             style: link
+        title_url: /contact
   - type: section_content
     title: A Section With An Image
     section_id: text-img
