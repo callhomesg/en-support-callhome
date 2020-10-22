@@ -1,6 +1,6 @@
 ---
 title: Translations
-subtitle: CLic
+subtitle: Our support site is available in English and Bengali
 excerpt: lorem-ipsum
 template: page
 ---
