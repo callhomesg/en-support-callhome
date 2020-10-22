@@ -32,7 +32,7 @@ sections:
         actions:
           - type: action
             label: Read more
-            url: /blog
+            url: /
             style: link
       - type: grid_item
         title: Contact
@@ -40,7 +40,7 @@ sections:
         actions:
           - type: action
             label: Contact now
-            url: /style-guide
+            url: /contact
             style: link
         title_url: /contact
   - type: section_cta
@@ -50,7 +50,7 @@ sections:
     actions:
       - type: action
         label: Contact now
-        url: /docs/getting-started/installation
+        url: /contact
         style: primary
   - type: section_content
     title: A Section With An Image
