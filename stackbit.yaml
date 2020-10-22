@@ -177,7 +177,7 @@ models:
           type: string
   docs:
     type: page
-    urlPath: "/docs/{slug}"
+    urlPath: "/docs/{slug}/{slug}"
     label: Documentation Pages
     layout: docs
     folder: docs
