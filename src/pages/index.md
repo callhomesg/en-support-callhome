@@ -32,7 +32,7 @@ sections:
         actions:
           - type: action
             label: Read more
-            url: /blog
+            url: /
             style: link
       - type: grid_item
         title: Contact
