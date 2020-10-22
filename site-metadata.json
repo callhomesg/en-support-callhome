@@ -78,7 +78,8 @@
                 "label": "Back to Call Home",
                 "url": "https://callhome.sg",
                 "style": "primary",
-                "has_subnav": false
+                "has_subnav": false,
+                "new_window": true
             }
         ],
         "url": "/"
