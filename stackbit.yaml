@@ -178,6 +178,7 @@ models:
   docs:
     type: page
     urlPath: "/docs/{slug}"
+    match: "*.md"
     label: Documentation Pages
     layout: docs
     folder: docs
