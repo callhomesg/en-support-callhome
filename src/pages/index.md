@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: section_hero
-    title: Support Call Home
+    title: Support for Call Home
     section_id: hero
     image: images/5.jpg
     content: >-
