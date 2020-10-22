@@ -92,7 +92,7 @@ sections:
   - type: section_cta
     title: Still confused?
     section_id: cta
-    subtitle: 'Contact us directly if '
+    subtitle: Contact us directly if
     actions:
       - type: action
         label: Get Started
