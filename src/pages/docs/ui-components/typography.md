@@ -1,5 +1,5 @@
 ---
-title: Typography
+title: ''
 weight: 1
 template: docs
 ---
