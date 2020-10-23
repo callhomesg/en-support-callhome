@@ -76,8 +76,8 @@
             },
             {
                 "type": "action_menu",
-                "label": "Back to Call Home",
-                "url": "https://callhome.sg",
+                "label": "Use App",
+                "url": "https://app.callhome.sg/",
                 "style": "primary",
                 "has_subnav": false,
                 "new_window": true
@@ -94,7 +94,7 @@
             {
                 "type": "action",
                 "label": "Facebook",
-                "url": "https://twitter.com/",
+                "url": "https://www.facebook.com/callhomesg",
                 "style": "icon",
                 "icon_class": "fa-facebook",
                 "new_window": true

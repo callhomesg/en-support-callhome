@@ -50,7 +50,7 @@ sections:
     actions:
       - type: action
         label: Contact now
-        url: 'https://callhome.sg/contact'
+        url: 'http://m.me/callhomesg'
         style: primary
   - type: section_content
     title: A Section With An Image
@@ -98,17 +98,5 @@ sections:
             label: Learn More
             url: /showcase
             style: link
-  - type: section_content
-    title: A Section Without Image
-    section_id: text-no-img
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
-    actions:
-      - type: action
-        label: Get Started
-        url: /docs/getting-started/installation
-        style: primary
 template: advanced
 ---
