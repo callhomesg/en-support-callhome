@@ -77,7 +77,7 @@
             {
                 "type": "action_menu",
                 "label": "Use App",
-                "url": "https://callhome.sg",
+                "url": "https://app.callhome.sg/",
                 "style": "primary",
                 "has_subnav": false,
                 "new_window": true
