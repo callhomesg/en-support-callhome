@@ -50,7 +50,7 @@ sections:
     actions:
       - type: action
         label: Contact now
-        url: 'https://callhome.sg/contact'
+        url: 'http://m.me/callhomesg'
         style: primary
   - type: section_content
     title: A Section With An Image
